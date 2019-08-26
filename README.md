@@ -1,13 +1,2 @@
-- 아이템1
-+ 아이템2
-  - 1단계 하위 아이템
-* 아이템3
-
- 1. 아이템1
- 2. 아이템2
-    1. 2단계 하위 아이템
- 3. 아이템3
-
----
-***
+![양배추](https://github.com/laughingcabbage/laughingCabbage/blob/master/222.jpg?raw=true)
 [HR] (http://cafe.naver.com/kndjang)
